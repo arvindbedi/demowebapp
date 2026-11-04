@@ -19,3 +19,7 @@ hs_err_pid*
 
 # intellij
 .idea
+
+# Local secrets / logs for remoteTrigger.sh
+.remoteTrigger.env
+remoteTrigger.log
